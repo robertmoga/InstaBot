@@ -6,8 +6,8 @@ from utils import db_ops as db
 # db.add_user(elem)
 
 elem = db.get_user_by_name("alistcolor")
-# print(elem)
-elem.next_action = "unfollow"
-db.update_user(elem)
+print(elem)
+# elem.next_action = "unfollow"
+# db.update_user(elem)
 
 

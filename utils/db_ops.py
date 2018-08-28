@@ -28,6 +28,6 @@ def get_user_by_name(name):
     data = c.fetchall()
     c.close()
     conn.close()
-    print(data)
+    # print(data)
     new_user = user.User(data[0][0], data[0][1], data[0][2], data[0][3])
     return new_user
