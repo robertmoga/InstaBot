@@ -3,6 +3,7 @@ from models import user
 from utils import db_ops as db
 from datetime import datetime
 from utils import date_time_manager as dt
+from models import user
 
 # elem = user.User("alistcolor")
 # db.add_user(elem)
@@ -18,9 +19,13 @@ def get_users_profile_crawling():
     c = conn.cursor()
     time = dt.datetime_to_string(datetime.now())
     querry = "SELECT * FROM user WHERE status='new user' and next_action='get_followers' and next_date < '" + time + "' "
-    print(querry)
+    # print(querry)
     c.execute(querry)
-    list = c.fetchall()
-    print(list)
+    raw_list = c.fetchall()
+    # print(list)
+    ret_list = list()
+    for item in raw_list:
+        ret_list.append(user.User(item))
+    return ret_list
 
 get_users_profile_crawling()
