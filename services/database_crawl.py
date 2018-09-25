@@ -14,18 +14,21 @@ from models import user
 # db.update_user(elem)
 
 
-def get_users_profile_crawling():
-    conn = sqlite3.connect("resources/insta.db")
+def get_new_users():
+    conn = sqlite3.connect("../resources/insta.db")
     c = conn.cursor()
     time = dt.datetime_to_string(datetime.now())
-    querry = "SELECT * FROM user WHERE status='new user' and next_action='get_followers' and next_date < '" + time + "' "
+    # print(time)
+    # querry = "SELECT * FROM user WHERE status='new user' and next_action='get_followers' and next_date < '" + time + "' "
+    querry = "SELECT * FROM user WHERE status='new user' and next_action='get_followers'  "
     # print(querry)
     c.execute(querry)
     raw_list = c.fetchall()
-    # print(list)
+    print(raw_list)
     ret_list = list()
     for item in raw_list:
         ret_list.append(user.User(item))
     return ret_list
 
-get_users_profile_crawling()
+if __name__ == "__main__" :
+    get_new_users()

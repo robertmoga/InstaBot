@@ -27,6 +27,6 @@ if __name__== "__main__":
                               desired_capabilities=capabilities)
 
     user_getter = get_users.GetUsers(driver)
-    # user_getter.run()
-    user_getter.login()
-    user_getter.get_users_by_user("sofiavergara")
+    user_getter.run()
+    # user_getter.login()
+    # user_getter.get_followers_from_user("sofiavergara")
