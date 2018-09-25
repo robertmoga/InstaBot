@@ -2,13 +2,58 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3ef288c2-d55e-4a3e-8fd5-15dc0c5cf9c6" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/utils/logger.py" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/main.py" afterPath="$PROJECT_DIR$/main.py" />
-      <change beforePath="$PROJECT_DIR$/resources/insta.db" afterPath="$PROJECT_DIR$/resources/insta.db" />
-      <change beforePath="$PROJECT_DIR$/services/database_crawl.py" afterPath="$PROJECT_DIR$/services/database_crawl.py" />
-      <change beforePath="$PROJECT_DIR$/services/get_users.py" afterPath="$PROJECT_DIR$/services/get_users.py" />
-      <change beforePath="$PROJECT_DIR$/tests.py" afterPath="$PROJECT_DIR$/tests.py" />
+      <change beforePath="$PROJECT_DIR$/resources/followers.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/resources/followers_files/05a29af71e72.js.download" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/resources/followers_files/0a4babdefaa9.js.download" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/resources/followers_files/11328248_1594878237443663_2122257105_a.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/resources/followers_files/11950448_908291092577893_626791201_a.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/resources/followers_files/13556844_1762871780623810_179155465_a.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/resources/followers_files/15cad24f03de.js.download" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/resources/followers_files/17075757_1812592229066606_3896403337477619712_a.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/resources/followers_files/18380379_296282607478466_9041329525891268608_a.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/resources/followers_files/26865406_1979721612243660_3128724774230949888_n.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/resources/followers_files/348b8106438a.js.download" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/resources/followers_files/36085229_216761079142138_525591791009792000_n.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/resources/followers_files/37057903_2109784382603062_3841578432131497984_n.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/resources/followers_files/37655877_1862437573812299_2549320414551605248_n.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/resources/followers_files/37683335_673515489648920_4162373112882528256_n.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/resources/followers_files/37815018_275282446597778_8008690169546801152_n.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/resources/followers_files/37817648_1460475307387436_8425086982606028800_n.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/resources/followers_files/37965841_226759068042614_2813674616533286912_n.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/resources/followers_files/38007868_2201486703513505_6405295061663219712_n.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/resources/followers_files/38146140_1918747721481110_4131191710443110400_n.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/resources/followers_files/38198673_839456442929702_18337427294781440_n.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/resources/followers_files/38247968_247959429194535_3346211803452407808_n.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/resources/followers_files/38281744_496941647399523_814069724781477888_n.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/resources/followers_files/38305059_2189449331086639_6818567380503887872_n.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/resources/followers_files/38454190_2191999641084801_2637336234455728128_n.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/resources/followers_files/38640349_2153330488324791_7173398848147030016_n.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/resources/followers_files/38745486_375478316318835_6636765052701507584_n.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/resources/followers_files/38797409_544783989290461_3920426979349757952_n.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/resources/followers_files/38823780_261954921106224_2661864217157566464_n.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/resources/followers_files/38835558_1873868786036043_4942679051778129920_n.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/resources/followers_files/38836388_523453211458245_4551001781257109504_n.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/resources/followers_files/38846061_217696795757076_3585185308515237888_n.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/resources/followers_files/38858559_2230237313871443_435789913250594816_n.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/resources/followers_files/38877884_1654109401366670_2310597061268996096_n.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/resources/followers_files/38897127_282960842500083_7862587816067203072_n.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/resources/followers_files/39011803_2043427835690273_1804850261139652608_n.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/resources/followers_files/39089517_1804112906362398_7207182176134103040_n.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/resources/followers_files/39225881_276656323062484_3958638478748549120_n.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/resources/followers_files/39318390_2133529656864217_2841949752042455040_n.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/resources/followers_files/39334188_1795985573816186_5522452697040551936_n.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/resources/followers_files/39356502_723380144683478_4495999446517022720_n.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/resources/followers_files/39508168_724184091254979_5412190389652160512_n.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/resources/followers_files/58919b5c34a3.js.download" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/resources/followers_files/77fc968553b4.js.download" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/resources/followers_files/QX17B8fU-Vm.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/resources/followers_files/d235d60563cc.js.download" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/resources/followers_files/f538a1d741f4.js.download" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/resources/followers_files/fbevents.js.download" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/resources/followers_files/identity.js.download" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/resources/followers_files/saved_resource.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/resources/followers_files/sdk.js.download" afterPath="" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -23,7 +68,7 @@
         <entry file="file://$PROJECT_DIR$/main.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="436">
-              <caret line="30" column="25" lean-forward="true" selection-start-line="30" selection-start-column="25" selection-end-line="30" selection-end-column="25" />
+              <caret line="30" column="25" lean-forward="false" selection-start-line="30" selection-start-column="25" selection-end-line="30" selection-end-column="25" />
               <folding>
                 <element signature="e#0#41#0" expanded="true" />
               </folding>
@@ -35,7 +80,7 @@
         <entry file="file://$PROJECT_DIR$/services/get_users.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="280">
-              <caret line="40" column="35" lean-forward="true" selection-start-line="40" selection-start-column="35" selection-end-line="40" selection-end-column="35" />
+              <caret line="40" column="35" lean-forward="false" selection-start-line="40" selection-start-column="35" selection-end-line="40" selection-end-column="35" />
               <folding>
                 <element signature="e#0#11#0" expanded="true" />
               </folding>
@@ -101,7 +146,7 @@
         <entry file="file://$PROJECT_DIR$/services/database_crawl.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="260">
-              <caret line="19" column="39" lean-forward="false" selection-start-line="19" selection-start-column="39" selection-end-line="19" selection-end-column="39" />
+              <caret line="19" column="30" lean-forward="false" selection-start-line="19" selection-start-column="30" selection-end-line="19" selection-end-column="30" />
               <folding>
                 <element signature="e#0#14#0" expanded="true" />
               </folding>
@@ -355,7 +400,14 @@
       <option name="project" value="LOCAL" />
       <updated>1535924992927</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="stabilized get users, added logging, issue with at getting users from database due to date-time format incompatibility">
+      <created>1537908510930</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1537908510930</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -387,7 +439,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Added date time manager module," />
     <MESSAGE value="extended get_user" />
-    <option name="LAST_COMMIT_MESSAGE" value="extended get_user" />
+    <MESSAGE value="stabilized get users, added logging, issue with at getting users from database due to date-time format incompatibility" />
+    <option name="LAST_COMMIT_MESSAGE" value="stabilized get users, added logging, issue with at getting users from database due to date-time format incompatibility" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -620,7 +673,7 @@
     <entry file="file://$PROJECT_DIR$/main.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="436">
-          <caret line="30" column="25" lean-forward="true" selection-start-line="30" selection-start-column="25" selection-end-line="30" selection-end-column="25" />
+          <caret line="30" column="25" lean-forward="false" selection-start-line="30" selection-start-column="25" selection-end-line="30" selection-end-column="25" />
           <folding>
             <element signature="e#0#41#0" expanded="true" />
           </folding>
@@ -630,7 +683,7 @@
     <entry file="file://$PROJECT_DIR$/services/get_users.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="280">
-          <caret line="40" column="35" lean-forward="true" selection-start-line="40" selection-start-column="35" selection-end-line="40" selection-end-column="35" />
+          <caret line="40" column="35" lean-forward="false" selection-start-line="40" selection-start-column="35" selection-end-line="40" selection-end-column="35" />
           <folding>
             <element signature="e#0#11#0" expanded="true" />
           </folding>
@@ -684,7 +737,7 @@
     <entry file="file://$PROJECT_DIR$/services/database_crawl.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="260">
-          <caret line="19" column="39" lean-forward="false" selection-start-line="19" selection-start-column="39" selection-end-line="19" selection-end-column="39" />
+          <caret line="19" column="30" lean-forward="false" selection-start-line="19" selection-start-column="30" selection-end-line="19" selection-end-column="30" />
           <folding>
             <element signature="e#0#14#0" expanded="true" />
           </folding>
